@@ -1,0 +1,5 @@
+name: ExampleRecipe
+api: ["5.0.0"]
+version: 1.0.0
+main: Zerka\ExampleRecipe\Loader
+author: ["https://github.com/riozadev"]
